@@ -1,28 +1,4 @@
-
-
-// for (var i = 0; i < buttons.length ; i++) 
-// {
-    //     buttons[i].addEventListener("click" , clickMe);
-    // }
-    
-    // function clickMe()
-    // {
-        //     alert("I got Clicked"); 
-        // }
-
-
-// for (var i = 0; i < drum_buttons.length ; i++) 
-// {
-
-//     drum_buttons[i].addEventListener("click" , function ()
-//     {
-//         this.style.color = "white";
-//     }
-
-//     );
-// }
-
-        
+      
 var drum_buttons = document.querySelectorAll(".drum");
 
 for (var i = 0; i < drum_buttons.length ; i++) 
